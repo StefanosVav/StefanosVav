@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently studying Informatics & Telecommunications in the National and Kapodistrian University of Athens<br>- 🌱 I’m currently learning about Artificial Intelligence and Web Development<br>- 📫 How to reach me: https://www.linkedin.com/in/stefanos-vav-033782255/<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love board games, hiking and singing
+- 🔭 I’m currently studying Informatics & Telecommunications at the National and Kapodistrian University of Athens<br>- 🌱 I’m currently learning about Artificial Intelligence and Web Development<br>- 📫 How to reach me: https://www.linkedin.com/in/stefanos-vav-033782255/<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love board games, hiking and singing
 
 
 ## 🌐 Socials:
