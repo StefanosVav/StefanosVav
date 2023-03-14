@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - 🔭 I’m currently studying Informatics & Telecommunications at the National and Kapodistrian University of Athens<br>- 🌱 I’m currently learning about Artificial Intelligence and Web Development<br>- 📫 How to reach me: https://www.linkedin.com/in/stefanos-vavoulas/
 
 
