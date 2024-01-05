@@ -1,5 +1,5 @@
 # About Me:
-- 🔭 I’m currently studying Informatics & Telecommunications at the National and Kapodistrian University of Athens<br>- 🌱 I’m currently learning about JavaScript and Web Development<br>- 📫 How to reach me: https://www.linkedin.com/in/stefanos-vavoulas/
+- 🔭 I’m currently studying Informatics & Telecommunications at the National and Kapodistrian University of Athens<br>- 🌱 I’m currently interning as a .NET back-end developer<br>- 📫 How to reach me: https://www.linkedin.com/in/stefanos-vavoulas/
 
 
 ## 🌐 Socials:
